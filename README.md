@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Cliford👋
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>Developing mobile applications with React Native and integrating modern databases like Supabase and Firebase.<br><br>👯 I’m looking to collaborate on:<br>Innovative web projects and mobile apps that leverage emerging technologies such as generative AI and blockchain.<br><br>🤝 I’m looking for help with:<br>Scaling my projects and tackling challenges in new tech areas to bring creative ideas to life.<br><br>🌱 I’m currently learning:<br>Advanced concepts in generative AI, blockchain development, and the latest front-end frameworks.<br><br>💬 Ask me about:<br>Mobile development with React Native, web development using React and Node.js, and best practices in database management.<br><br>⚡ Fun fact:<br>I'm a fast learner with a passion for emerging technologies and a knack for adapting quickly to new challenges.<br><br>
